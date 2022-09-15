@@ -22,6 +22,6 @@ pip install -r requirements.txt
 python scraper.py
 ```
 
-The above command will create the `students.csv` with Name and Email Address.
+The above command will create the `members.csv` with Name and Email Address.
 
 :)
